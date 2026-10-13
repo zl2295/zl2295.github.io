@@ -25,7 +25,7 @@ params:
   math: true                # used by the KaTeX partial below
 
   homeInfoParams:
-    Title: "Hi there"
+    Title: "Hi there, this site contains a series of blog posts for research and teaching in AI for Business, by Zhikun Lu from NYU Shanghai"
     Content: "Notes on causal inference, operations, and AI for business."
 
   socialIcons:

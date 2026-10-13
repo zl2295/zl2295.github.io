@@ -3,9 +3,9 @@
 # title: My New Hugo Project
 # theme: ["PaperMod"]
 
-baseURL: "https://luzk-emory.github.io/"
+baseURL: "https://zl2295.github.io/"
 languageCode: en-us
-title: "David Lu"
+title: "AI for Business"
 theme: PaperMod
 
 pagination:

@@ -5,7 +5,7 @@
 
 baseURL: "https://zl2295.github.io/"
 languageCode: en-us
-title: "AI for Business"
+title: "Zhikun Lu"
 theme: PaperMod
 
 pagination:
@@ -25,14 +25,15 @@ params:
   math: true                # used by the KaTeX partial below
 
   homeInfoParams:
-    Title: "Hi there, this site contains a series of blog posts for research and teaching in AI for Business, by Zhikun Lu from NYU Shanghai"
-    Content: "Notes on causal inference, operations, and AI for business."
+    Title: "AI for Business"
+    Content: "Research and teaching notes on causal inference, machine learning,
+    and business decision-making by [Zhikun Lu](https://www.zhikun.lu), NYU Shanghai."
 
   socialIcons:
     - name: github
-      url: "https://github.com/<username>"
+      url: "https://github.com/luzk-emory"
     - name: googlescholar
-      url: "https://scholar.google.com/..."
+      url: "https://scholar.google.com/citations?user=GTBayGYAAAAJ&hl=en"
 
 menu:
   main:

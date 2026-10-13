@@ -1,8 +1,3 @@
-# baseURL: https://example.org/
-# locale: en-us
-# title: My New Hugo Project
-# theme: ["PaperMod"]
-
 baseURL: "https://zl2295.github.io/"
 languageCode: en-us
 title: "Zhikun Lu"
@@ -37,9 +32,10 @@ params:
 
 menu:
   main:
-    - { name: Posts, url: /posts/, weight: 10 }
-    - { name: Tags, url: /tags/, weight: 20 }
-    - { name: Search, url: /search/, weight: 30 }
+    - { name: Posts,   url: /posts/,   weight: 10 }
+    - { name: Archive, url: /archives/, weight: 20 }
+    - { name: Search,  url: /search/,  weight: 30 }
+    - { name: Tags,    url: /tags/,    weight: 40 }
 
 markup:
   goldmark:
